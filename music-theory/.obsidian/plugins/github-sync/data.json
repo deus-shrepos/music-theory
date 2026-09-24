@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/deus-shrepos/music-theory.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
