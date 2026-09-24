@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New note.md",
+                "file": "Basics/Music notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New note"
+              "title": "Music notes"
             }
           }
         ],
@@ -46,10 +46,14 @@
             "id": "bf41c6c7219ad39e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Basics/Music notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Music notes"
             }
           }
         ]
@@ -222,7 +226,8 @@
   },
   "active": "ab5852d0076329bb",
   "lastOpenFiles": [
+    "Basics",
     "Welcome.md",
-    "New note.md"
+    "Basics/Music notes.md"
   ]
 }
